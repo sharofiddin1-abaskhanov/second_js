@@ -14,5 +14,6 @@ var qoldiqli = +prompt(' 5)   52 % 31 = ')
 
 
 
+
 console.info (' Sizning javobingiz : ' + ' 1) ' + qushuv, ' 2) ' +  ayiruv, ' 3) ' + kupayturuv, ' 4) ' + bulish, ' 5) ' + qoldiqli  +
 '  Misollarning javoblari : 1) 12 , 2) 71 , 3) 96 ,  4) 13 , 5) qoldiq : 1 ')
